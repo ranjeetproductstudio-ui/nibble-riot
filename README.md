@@ -10,4 +10,4 @@ This repository contains only the policy page and hosting metadata. Game source,
 
 GitHub Pages publishing source: `main` branch, `/ (root)` folder. No dependencies or build step are needed.
 
-The policy currently describes Android versions 0.1.0 and 0.1.1. Recheck the policy and Play disclosures whenever data practices change.
+The policy currently describes Android versions 0.1.0, 0.1.1 and 0.1.2. Recheck the policy and Play disclosures whenever data practices change.
